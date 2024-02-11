@@ -3,7 +3,7 @@
 This Android app demonstrates the usage of RecyclerView to display a list of items. It's developed using Java and the Android Studio IDE.
 
 ## Screenshots
-![Alt Text](https://github.com/omertzroya/Android1-HITCollege-Class-Exercise1/blob/main/app/src/main/res/drawable/gif.gif)
+![Alt Text](https://github.com/omertzroya/Android1HITCollegeClassExercise1/blob/main/app/src/main/res/drawable/gif.gif)
 
 ## Features
 - Displays a list of items using RecyclerView.
