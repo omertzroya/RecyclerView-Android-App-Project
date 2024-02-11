@@ -13,7 +13,7 @@ This Android app demonstrates the usage of RecyclerView to display a list of ite
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/example/recyclerview.git
+   git clone https://github.com/omertzroya/Android1-HITCollege-Class-Exercise1.git
    ```
 
 2. Open the project in Android Studio.
